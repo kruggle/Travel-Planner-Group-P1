@@ -17,9 +17,7 @@
 
 
 ## Screenshot 
-
-![Trip App SS](https://user-images.githubusercontent.com/98069620/158713688-d8037135-dfa4-481a-8576-17a48d982710.PNG)
-
+![Screenshot of final web application](./pictures/TripationScreenshot.png)
 
 ## URL
 [URL to deployed application: url](url)
